@@ -8,4 +8,4 @@ You can view the transaction history to check the credit and debit transactions.
 -------------------------------------
 You will need to activate a virtual env which has django installed in it then run the py manage.py file.
 
-Reach me @
+Reach me @ wa.link/kctqla
